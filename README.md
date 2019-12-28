@@ -1,16 +1,17 @@
-# flutter_layouts
+# Flutter Layouts
 
-A new Flutter project.
+My learnings about Flutter Layouts.
 
-## Getting Started
+## Layout 01
 
-This project is a starting point for a Flutter application.
+The first layout from the Flutter's documentation.
 
-A few resources to get you started if this is your first Flutter project:
+![Layout 01](https://flutter.dev/assets/ui/layout/lakes-2e8707102ca4f56f44e40ce3703606e1600ac1574fe5544c0f2d96f966bed853.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Flutter Layout - Tutorial 01](https://flutter.dev/docs/development/ui/layout/tutorial)
 
-For help getting started with Flutter, view our
+
+## Flutter Docs
+For help getting started with Flutter, view the
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
