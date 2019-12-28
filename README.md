@@ -6,7 +6,7 @@ My learnings about Flutter Layouts.
 
 The first layout from the Flutter's documentation.
 
-![Layout 01](https://flutter.dev/assets/ui/layout/lakes-2e8707102ca4f56f44e40ce3703606e1600ac1574fe5544c0f2d96f966bed853.jpg){:height="50%" width="50%"}
+<img src="https://flutter.dev/assets/ui/layout/lakes-2e8707102ca4f56f44e40ce3703606e1600ac1574fe5544c0f2d96f966bed853.jpg" width="200" height="420" />
 
 - [Flutter Layout - Tutorial 01](https://flutter.dev/docs/development/ui/layout/tutorial)
 
