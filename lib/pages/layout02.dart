@@ -23,7 +23,12 @@ class MainRoute extends StatelessWidget {
             context: context,
             text: 'Named Navigation',
             route: '/layout-02/named-navigation'
-          )
+          ),
+          ButtonHelper.buildButtonRow(
+            context: context,
+            text: 'Todo List',
+            route: '/layout-02/todo-list'
+          ),
         ],
       ),
     );
