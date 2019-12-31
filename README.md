@@ -11,6 +11,12 @@ The first layout from the Flutter's documentation.
 - [Flutter Layout - Tutorial 01](https://flutter.dev/docs/development/ui/layout/tutorial)
 
 
+## Layout 02
+
+The layout 2 contains learnings about Navigation between Routes.
+
+- [Flutter - Navigation and routing](https://flutter.dev/docs/development/ui/navigation)
+
 ## Flutter Docs
 For help getting started with Flutter, view the
 [online documentation](https://flutter.dev/docs), which offers tutorials,
