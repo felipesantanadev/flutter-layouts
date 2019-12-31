@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import './favoriteWidget.dart';
 
 class TitleSection extends StatelessWidget {
   @override
@@ -28,13 +29,9 @@ class TitleSection extends StatelessWidget {
           ),
           Column(
             children: <Widget>[
-              Icon(Icons.star, color: Colors.red[500])
+              FavoriteWidget()
             ],
           ),
-          Column(
-            children: <Widget>[
-              Text('41', style: TextStyle(fontSize: 20.0),)
-          ],)
         ],
       ),
     );

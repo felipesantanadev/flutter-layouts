@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_layouts/pages/home.dart';
 import './pages/layout01.dart';
+import 'helpers/routeHelper.dart';
 
 void main() => runApp(MyApp());
 
@@ -13,7 +15,9 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: Layout01()
+      initialRoute: '/',
+      routes: RouteHelper.buildRoutes(),
+      // home: HomePage() -> Warning: When using initialRoute, don’t define a home property.
     );
   }
 }
