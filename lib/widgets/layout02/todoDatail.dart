@@ -2,7 +2,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_layouts/models/layout02/todo.dart';
 
-
 class TodoDetail extends StatelessWidget {
   final Todo todo;
 
