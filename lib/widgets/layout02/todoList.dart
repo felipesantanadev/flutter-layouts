@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_layouts/models/layout02/todo.dart';
 import 'package:flutter_layouts/widgets/layout02/todoDatail.dart';
 
+
 class TodoList extends StatelessWidget {
   var todos = List<Todo>();
 
